@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PersonalJournaling")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+3d4780d9e616f70e96303dbc634fd903f3711981")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+157a902dd311ac67bc37304b0dc264588cc450b5")]
 [assembly: System.Reflection.AssemblyProductAttribute("PersonalJournaling")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PersonalJournaling")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
