@@ -11,4 +11,8 @@
         ContentTemplate="{DataTemplate local:MainPage}"
         Route="MainPage" />
 
+         <FlyoutItem Title="Journal Test">
+        <ShellContent ContentTemplate="{DataTemplate local:TestJournalPage}" />
+    </FlyoutItem>
+
 </Shell>

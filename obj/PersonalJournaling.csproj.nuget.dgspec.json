@@ -74,6 +74,10 @@
               "target": "Package",
               "version": "[10.0.1, )",
               "autoReferenced": true
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.9.172, )"
             }
           },
           "imports": [
@@ -390,6 +394,10 @@
               "target": "Package",
               "version": "[10.0.1, )",
               "autoReferenced": true
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.9.172, )"
             }
           },
           "imports": [
@@ -706,6 +714,10 @@
               "target": "Package",
               "version": "[10.0.1, )",
               "autoReferenced": true
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.9.172, )"
             }
           },
           "imports": [
@@ -1017,6 +1029,10 @@
             "Microsoft.Maui.Controls": {
               "target": "Package",
               "version": "[10.0.1, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.9.172, )"
             }
           },
           "imports": [
